@@ -13,6 +13,11 @@ function App() {
     <Router>
       <Header />
       <h1>Hello!!</h1>
+      <nav>
+        <ul>
+          <li>Home</li>
+        </ul>
+      </nav>
       <div className="page-container">
         <Switch>
           <Route exact path="/cart">
