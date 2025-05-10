@@ -12,7 +12,7 @@ function App() {
   return (
     <Router>
       <Header />
-
+      <h1>Hello!!</h1>
       <div className="page-container">
         <Switch>
           <Route exact path="/cart">
