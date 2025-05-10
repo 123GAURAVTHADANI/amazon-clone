@@ -32,6 +32,7 @@ function App() {
           </Route>
         </Switch>
       </div>
+      <footer>THis is PW SKILLS!!</footer>
     </Router>
   );
 }
